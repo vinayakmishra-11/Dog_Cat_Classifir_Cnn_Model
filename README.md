@@ -121,9 +121,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
 
-Project Link: [https://github.com/YOUR_USERNAME/Dog_Cat_Classifir_Cnn_Model](https://github.com/YOUR_USERNAME/Dog_Cat_Classifir_Cnn_Model)
+
+Project Link: [https://github.com/vinayakmishra-11/Dog_Cat_Classifir_Cnn_Model](https://github.com/YOUR_USERNAME/Dog_Cat_Classifir_Cnn_Model)
 
 ---
 
