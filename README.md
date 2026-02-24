@@ -91,9 +91,7 @@ Cat_vs_Dog/
 - **Output**: Binary classification (Cat: 0, Dog: 1)
 - **Framework**: TensorFlow/Keras
 
-> **Note**: The `.h5` model file is not included in this repository due to its large size. You can:
-> - Train your own model using a Cat vs Dog dataset
-> - Download a pre-trained model from [Kaggle](https://www.kaggle.com/)
+[Kaggle](https://www.kaggle.com/)
 
 ## 📋 Requirements
 
