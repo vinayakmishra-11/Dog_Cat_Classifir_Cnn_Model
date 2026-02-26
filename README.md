@@ -79,6 +79,8 @@ Cat_vs_Dog/
    ```bash
    python app.py
    ```
+   🤗 **Hugging Face Model**: [vinayakmishra11/cat-dog-classifier](https://huggingface.co/vinayakmishra11/cat-dog-classifier) 
+
 
 6. **Open in browser**
    
